@@ -8,4 +8,5 @@ En este repositorio se encontraran las evidencias de la realización de los labo
 * LAB-04: Hardening y configuración segura de PostgreSQL.
 
 * LAB-01 — Bitácoras y auditoría del dato en PostgreSQL
+  
 Realizado por la alumna: Calderón Beltrán Vanessa Noemí
