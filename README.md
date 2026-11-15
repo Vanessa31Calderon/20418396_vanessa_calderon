@@ -1,4 +1,4 @@
-# LaboratoriosDBA
+# Laboratorios **DBA**
 Laboratorios de Gestión y Desempeño de Bases de Datos
 
 En este repositorio se encontraran las evidencias de la realización de los laboratorios:
