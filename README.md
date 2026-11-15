@@ -11,5 +11,6 @@ Unidad 2:
 
 Unidad 3:
 * LAB-01 — Bitácoras y auditoría del dato en PostgreSQL
+* LAB-02 — Trazabilidad en MongoDB Community
   
 Realizado por la alumna: Calderón Beltrán Vanessa Noemí
