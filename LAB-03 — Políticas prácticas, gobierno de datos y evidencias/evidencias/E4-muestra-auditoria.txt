@@ -1,0 +1,10 @@
+"id_evento","momento","usuario_sesion","aplicacion","operacion","id_cliente"
+9,"2026-11-24 22:11:18.123305-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:7187639","INSERT",8
+8,"2026-11-24 22:11:18.123305-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:7187639","INSERT",7
+7,"2026-11-06 22:35:11.109396-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","UPDATE",3
+6,"2026-11-06 22:35:11.109396-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","UPDATE",5
+5,"2026-11-06 22:35:11.109396-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","UPDATE",4
+4,"2026-11-06 22:35:11.109396-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","UPDATE",2
+3,"2026-11-06 22:35:11.109396-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","UPDATE",1
+2,"2026-11-06 22:34:01.577411-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","DELETE",6
+1,"2026-11-06 22:34:01.577411-06","u_20418396_vanessa_calderon","pgAdmin 4 - CONN:9060216","INSERT",6
